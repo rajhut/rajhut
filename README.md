@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajhut
 - 👀 I’m interested in Cloud Computing, Blockchain, IoT and Artificial Inteligent.
-- 🌱 I’m currently learning about microservices and Openshift.
+- 🌱 I’m currently learning about Big Data and LLM.
 - 💞️ I’m looking to collaborate on open source web systems.
 - 📫 How to reach me: LinkedIn: Rajhut Fernandez || Twitter: @rajhut
 
